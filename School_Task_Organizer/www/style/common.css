@@ -1,0 +1,27 @@
+body, p{
+	text-align: center;
+	font-family: carrier, "Times New Roman", serif;
+	font-size: 1.3em;
+	margin: 10%, 0%, 10%, 0%;
+	border: 1px dotted grey;
+}
+
+table, td, th{
+	margin:auto;
+}
+
+tr, td{
+	border: 1px dotted grey;
+}
+
+td, th{
+	min-width: 4em;
+}
+
+label, cvalue{
+	font-size: 1.2em;
+}
+
+.btnDone{
+	padding: 10%;
+}
